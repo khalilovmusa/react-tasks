@@ -1,0 +1,17 @@
+.wine-component{
+  border: 1px solid #fff;
+  color: #fff;
+  z-index: 9999;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+.wine-component h1{
+  font-size: 30px;
+}
+.wine-component h3{
+  color: gray;
+}
+.wine-component p{
+  font-size: 14px;
+}
