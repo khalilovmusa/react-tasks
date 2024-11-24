@@ -1,0 +1,21 @@
+.user-login-wrapper input{
+    display: block;
+    margin-bottom: 5px;
+    padding: 10px 17px;
+    border-radius: 8px;
+    border: none;
+}
+.user-login-wrapper{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    min-width: 100%;
+
+    border: 1px solid blue;
+    padding: 20px;
+    border-radius: 15px;
+}
+.user-login-wrapper p{
+    font-weight: 800;
+}
